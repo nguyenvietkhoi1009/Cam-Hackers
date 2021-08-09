@@ -6,7 +6,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/nguyenvietkhoi1009/Cam-Hackers.git
 
 * pip3 install requests
 
